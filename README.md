@@ -7,3 +7,5 @@
 - `Ask me about anything --------------------------------------------------------------- (⁄⁄>⁄▽⁄<⁄⁄)`
 - `How to reach me: soulburn007@gmail.com xor discord: frustαk#4859 -------------------- ( ´-ω･)︻┻┳══━一`
 - `Pronouns: human? or maybe not ------------------------------------------------------- (¬‿¬ )`
+
+![frustak's GitHub stats](https://github-readme-stats.vercel.app/api?username=frustak&theme=gruvbox)
