@@ -1,3 +1,5 @@
 - discord but distributed
 - simplest serve with hot reload
 - chat but distributed, maybe same as discord or not
+- eye twirling effect?
+- this swirling cube or whatever it is? ![cubes](/images/swirling-cubes.png)
