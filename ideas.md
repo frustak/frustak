@@ -1,0 +1,3 @@
+- discord but distributed
+- simplest serve with hot reload
+- chat but distributed, maybe same as discord or not
